@@ -3,6 +3,6 @@ aantalcroissantjes = 17
 stokbroden = 2.78
 aantalstokbroden = 2
 aantalkortingsbonnen =3
-kortingsbonnen = 0.50
+kortingsbonnen = 0.53
 
 print(croissantjes * aantalcroissantjes + (stokbroden * aantalstokbroden) - aantalkortingsbonnen * kortingsbonnen)
